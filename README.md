@@ -38,6 +38,7 @@ User management System, where administrators have the capability to perform CRUD
 ## Quick Start
 ### Environment (recommended)
 - Java Version：1.8.0_371
+- Node.js: 16.20.0
 - MySQL: 8.0.20
 - Redis: 5.0.14
 - Erlang: 24.2
